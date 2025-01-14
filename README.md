@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, And Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://imbilgates.github.io/Portfolio-Frontend]
+- 👨‍💻 All of my projects are available at https://imbilgates.github.io/Portfolio
 
 - 💬 Ask me about **react, redux, javascript**
 
