@@ -15,7 +15,7 @@ Full Stack Developer || Scaling with Systems Knowledge
 
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,tailwind,react,nodejs,express,mongodb,vite,nextjs,typescript" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,java,tailwind,react,nodejs,express,mongodb,vite,nextjs,typescript" />
   </a>
 </p>
 
