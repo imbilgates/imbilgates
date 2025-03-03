@@ -1,27 +1,40 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bilgates 
-==============================================================================================================================
-Software Developer
-------------------
+# Bilgates ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Full Stack Developer || Scaling with Systems Knowledge
+## **Software Developer**  
+Full Stack Developer || Scaling with Systems Knowledge  
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [imbilgates@gmail.com](mailto:imbilgates@gmail.com)
-* 🧠  Learning How to scale an application.
-* ⚡  You can also contact me on LinkedIn
+- 🌍 Based in **India**  
+- ✉️ Contact me at [imbilgates@gmail.com](mailto:imbilgates@gmail.com)  
+- 🧠 Learning **How to scale an application**  
+- ⚡ Connect with me on **[LinkedIn](https://www.linkedin.com/in/Imbilgates/)**  
 
-### Skills
+---
 
+## **🛠 Skills**  
 
+### **Languages & Frameworks**  
 <p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,java,nextjs,typescript,react,reactnative" /> <br>
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=express,spring,vite,nodejs" /> <br>
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,firebase" /> <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,shadcn,materialui" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,typescript,java,react,nextjs,reactnative" />
 </p>
 
-### Socials
+### **Backend & Server-side**  
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,spring,vite" />
+</p>
 
-<a href="https://www.linkedin.com/in/Imbilgates/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+### **Databases & Cloud**  
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+### **UI & Styling**  
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,shadcn,materialui" />
+</p>
+
+---
+
+## **🌍 Socials**  
+<a href="https://www.linkedin.com/in/Imbilgates/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>  
