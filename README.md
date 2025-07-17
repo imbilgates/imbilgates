@@ -12,25 +12,10 @@ Full Stack Developer || Scaling with Systems Knowledge
 
 ## **🛠 Skills**  
 
-### **Languages & Frameworks**  
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,typescript,java,react,nextjs,reactnative" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,mongodb,java,react,nextjs,reactnative,express,nodejs" />
 </p>
 
-### **Backend & Server-side**  
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,spring,vite" />
-</p>
-
-### **Databases & Cloud**  
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,firebase" />
-</p>
-
-### **UI & Styling**  
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,shadcn,materialui" />
-</p>
 
 ---
 
